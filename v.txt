@@ -1,7 +1,1 @@
-Version: 2.1
-Improvements:
-- Improved UI performance
-- Optimized download speed
-
-Bug Fixes:
-- Fixed crash on launch
+2.1
