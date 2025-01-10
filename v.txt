@@ -1,4 +1,3 @@
-{
-  "current_version": "1.0",
-  "update_url": "https://github.com/azhersparta/sltu/raw/refs/heads/main/SLTU.exe"
-}
+1.0
+https://github.com/azhersparta/sltu/raw/refs/heads/main/SLTU.exe
+
