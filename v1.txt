@@ -1,0 +1,5 @@
+1.0
+https://github.com/azhersparta/sltu/raw/refs/heads/main/SLTU.exe
+==> New Softwares Updates
+==> Some bugs removed
+
